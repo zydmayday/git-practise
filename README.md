@@ -1,3 +1,3 @@
 # git-practise
 
-modify in master
+modify in branch-A 
