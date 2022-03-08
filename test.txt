@@ -1,3 +1,4 @@
 Add line 1
 feature a
 another feature a
+feature b
